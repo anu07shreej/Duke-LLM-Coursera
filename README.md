@@ -7,5 +7,6 @@ https://leadhero.ai/how-to-get-an-openai-api-key-a-step-by-step-guide/
 
 Course 1:
 Introduction to the concepts of Generative AI: LLMs, state-of-the-art models, using OpenAI APIs 
+
 Course 2:
 Azure OpenAI services, Azure ML
